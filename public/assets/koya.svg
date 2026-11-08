@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><!-- Fan-art original (dibujado a mano, no oficial): Koya. Reemplázalo con el mismo nombre -->
+<ellipse cx="128" cy="246" rx="66" ry="7" fill="#000" opacity=".12"/>
+<ellipse cx="128" cy="200" rx="54" ry="40" fill="#8fd3ee" stroke="#00000022" stroke-width="3"/><ellipse cx="128" cy="210" rx="30" ry="24" fill="#f4fbff"/><ellipse cx="90" cy="230" rx="22" ry="15" fill="#8fd3ee" stroke="#00000022" stroke-width="3"/><ellipse cx="166" cy="230" rx="22" ry="15" fill="#8fd3ee" stroke="#00000022" stroke-width="3"/><ellipse cx="114" cy="186" rx="18" ry="13" fill="#8fd3ee" stroke="#00000022" stroke-width="3"/><ellipse cx="142" cy="186" rx="18" ry="13" fill="#8fd3ee" stroke="#00000022" stroke-width="3"/>
+<circle cx="56" cy="62" r="34" fill="#8fd3ee" stroke="#00000022" stroke-width="3"/><circle cx="200" cy="62" r="34" fill="#8fd3ee" stroke="#00000022" stroke-width="3"/><circle cx="58" cy="64" r="18" fill="#e6f6fd"/><circle cx="198" cy="64" r="18" fill="#e6f6fd"/>
+<path d="M118 44q2-20 14-18-2 8 8 4-4 14-22 14z" fill="#6cc4e6"/>
+<circle cx="128" cy="106" r="70" fill="#8fd3ee" stroke="#00000022" stroke-width="3"/>
+<ellipse cx="84" cy="126" rx="13" ry="11" fill="#f48fb1"/><ellipse cx="172" cy="126" rx="13" ry="11" fill="#f48fb1"/><ellipse cx="128" cy="108" rx="13" ry="16" fill="#b48ad6"/><ellipse cx="98" cy="104" rx="5" ry="6" fill="#1f1f1f"/><ellipse cx="158" cy="104" rx="5" ry="6" fill="#1f1f1f"/><circle cx="99" cy="101" r="2" fill="#fff"/><circle cx="159" cy="101" r="2" fill="#fff"/>
+<path d="M120 130q8 7 16 0" fill="none" stroke="#1f1f1f" stroke-width="4" stroke-linecap="round"/>
+</svg>

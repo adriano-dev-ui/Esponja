@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><!-- Fan-art original (dibujado a mano, no oficial): Tata. Reemplázalo con el mismo nombre -->
+<ellipse cx="128" cy="246" rx="66" ry="7" fill="#000" opacity=".12"/>
+<ellipse cx="128" cy="200" rx="54" ry="40" fill="#b9b6e6" stroke="#00000022" stroke-width="3"/><ellipse cx="90" cy="230" rx="22" ry="15" fill="#b9b6e6" stroke="#00000022" stroke-width="3"/><ellipse cx="166" cy="230" rx="22" ry="15" fill="#b9b6e6" stroke="#00000022" stroke-width="3"/><ellipse cx="114" cy="186" rx="18" ry="13" fill="#b9b6e6" stroke="#00000022" stroke-width="3"/><ellipse cx="142" cy="186" rx="18" ry="13" fill="#b9b6e6" stroke="#00000022" stroke-width="3"/>
+<path d="M88 168h80l-6 14H94z" fill="#fdf0b8" stroke="#00000022" stroke-width="3"/>
+<path d="M128 172C60 140 34 110 38 72c4-34 50-46 90-14 40-32 86-20 90 14 4 38-22 68-90 100z" fill="#ef3b3b" stroke="#00000022" stroke-width="3"/>
+<path d="M66 66q16-14 34-6" stroke="#fff" stroke-width="6" fill="none" opacity=".25" stroke-linecap="round"/>
+<ellipse cx="80" cy="118" rx="13" ry="11" fill="#d32626"/><ellipse cx="176" cy="118" rx="13" ry="11" fill="#d32626"/><path d="M98 84h16M142 84h16" stroke="#1f1f1f" stroke-width="4" stroke-linecap="round"/><ellipse cx="106" cy="100" rx="6" ry="7" fill="#1f1f1f"/><ellipse cx="150" cy="100" rx="6" ry="7" fill="#1f1f1f"/><circle cx="107" cy="97" r="2" fill="#fff"/><circle cx="151" cy="97" r="2" fill="#fff"/>
+<ellipse cx="128" cy="124" rx="20" ry="13" fill="#fcd34d" stroke="#1f1f1f" stroke-width="3"/><path d="M118 124h20" stroke="#1f1f1f" stroke-width="3" stroke-linecap="round"/>
+</svg>

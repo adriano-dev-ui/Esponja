@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><!-- Fan-art original (dibujado a mano, no oficial): Cooky. Reemplázalo con el mismo nombre -->
+<ellipse cx="128" cy="246" rx="66" ry="7" fill="#000" opacity=".12"/>
+<ellipse cx="128" cy="200" rx="54" ry="40" fill="#f8a5c6" stroke="#00000022" stroke-width="3"/><ellipse cx="90" cy="230" rx="22" ry="15" fill="#f8a5c6" stroke="#00000022" stroke-width="3"/><ellipse cx="166" cy="230" rx="22" ry="15" fill="#f8a5c6" stroke="#00000022" stroke-width="3"/><ellipse cx="114" cy="186" rx="18" ry="13" fill="#fff" stroke="#00000022" stroke-width="3"/><ellipse cx="142" cy="186" rx="18" ry="13" fill="#fff" stroke="#00000022" stroke-width="3"/>
+<ellipse cx="74" cy="44" rx="18" ry="40" fill="#f8a5c6" transform="rotate(-12 74 44)" stroke="#00000022" stroke-width="3"/><ellipse cx="74" cy="46" rx="8" ry="26" fill="#fff" transform="rotate(-12 74 46)"/>
+<path d="M150 54q20-24 46-10-14 18-46 10z" fill="#f8a5c6" stroke="#00000022" stroke-width="3"/>
+<path d="M156 50l-14-12v24zM168 50l14-12v24z" fill="#f17aa8"/><circle cx="162" cy="50" r="6" fill="#f17aa8"/>
+<circle cx="128" cy="116" r="70" fill="#f8a5c6" stroke="#00000022" stroke-width="3"/>
+<ellipse cx="84" cy="134" rx="13" ry="11" fill="#f48fb1"/><ellipse cx="172" cy="134" rx="13" ry="11" fill="#f48fb1"/><path d="M94 98h16M146 98h16" stroke="#1f1f1f" stroke-width="4" stroke-linecap="round"/><ellipse cx="102" cy="114" rx="6" ry="7" fill="#1f1f1f"/><ellipse cx="154" cy="114" rx="6" ry="7" fill="#1f1f1f"/><circle cx="103" cy="111" r="2" fill="#fff"/><circle cx="155" cy="111" r="2" fill="#fff"/><path d="M116 132q6 8 12 0q6 8 12 0M128 126v6" fill="none" stroke="#1f1f1f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

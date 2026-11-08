@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256"><!-- Fan-art original (dibujado a mano, no oficial): Mang. Reemplázalo con el mismo nombre -->
+<ellipse cx="128" cy="246" rx="66" ry="7" fill="#000" opacity=".12"/>
+<ellipse cx="128" cy="200" rx="54" ry="40" fill="#c4a5f0" stroke="#00000022" stroke-width="3"/><ellipse cx="90" cy="230" rx="22" ry="15" fill="#c4a5f0" stroke="#00000022" stroke-width="3"/><ellipse cx="166" cy="230" rx="22" ry="15" fill="#c4a5f0" stroke="#00000022" stroke-width="3"/><ellipse cx="114" cy="186" rx="18" ry="13" fill="#c4a5f0" stroke="#00000022" stroke-width="3"/><ellipse cx="142" cy="186" rx="18" ry="13" fill="#c4a5f0" stroke="#00000022" stroke-width="3"/>
+<path d="M84 166q44 12 88 0v14q-44 10-88 0z" fill="#5cc6d6"/>
+<g fill="#b48ad6"><circle cx="146" cy="34" r="10"/><circle cx="160" cy="26" r="10"/><circle cx="160" cy="44" r="10"/><circle cx="172" cy="34" r="10"/></g><circle cx="160" cy="34" r="6" fill="#9b6dd0"/>
+<circle cx="124" cy="108" r="66" fill="#7fd4e4" stroke="#00000022" stroke-width="3"/>
+<ellipse cx="62" cy="102" rx="14" ry="22" fill="#a5e4ef" stroke="#00000022" stroke-width="3"/>
+<circle cx="176" cy="116" r="40" fill="#f9a8c4" stroke="#00000022" stroke-width="3"/><ellipse cx="170" cy="112" rx="5" ry="7" fill="#d9769d"/><ellipse cx="190" cy="112" rx="5" ry="7" fill="#d9769d"/>
+<ellipse cx="100" cy="104" rx="6" ry="8" fill="#1f1f1f"/><circle cx="101" cy="101" r="2" fill="#fff"/>
+</svg>

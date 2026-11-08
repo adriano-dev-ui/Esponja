@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><!-- Proyectil de Bob -->
+<circle cx="64" cy="64" r="54" fill="#bfefff" fill-opacity=".55" stroke="#fff" stroke-width="8"/>
+<path d="M36 50q8-18 26-22" stroke="#fff" stroke-width="9" fill="none" stroke-linecap="round"/>
+<circle cx="84" cy="86" r="6" fill="#fff" opacity=".8"/></svg>
